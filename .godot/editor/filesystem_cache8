@@ -1,10 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702423458
+::res://::1702499733
 bg_music.mp3::AudioStreamMP3::7740025162993226110::1702401874::1702422490::1::::<><>::
 enemy.png::CompressedTexture2D::5591272491634969294::1702401874::1702422490::1::::<><>::
+enemy.tscn::PackedScene::8237651860403992005::1702424653::0::1::::<><>::uid://clwpo83yorvtm::::res://enemy.png
 enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702401874::1702422490::1::::<><>::
 icon.svg::CompressedTexture2D::7653978998285427738::1702401692::1702422490::1::::<><>::
-Player.gd::GDScript::-1::1702423380::0::1::::<>Area2D<>::
-player.tscn::PackedScene::6498557938865103588::1702423380::0::1::::<><>::res://Player.gd<>uid://dhbv6eyh45c07::::res://icon.svg
+Player.gd::GDScript::-1::1702425021::0::1::::<>Area2D<>::
+player.tscn::PackedScene::6498557938865103588::1702424653::0::1::::<><>::res://Player.gd<>uid://dhbv6eyh45c07::::res://icon.svg
 README.md::TextFile::-1::1702422179::0::1::::<><>::
-world.tscn::PackedScene::6545334573903027459::1702422584::0::1::::<><>::
+world.tscn::PackedScene::6545334573903027459::1702425021::0::1::::<><>::uid://cyt7kgtoc7bng::::res://player.tscn<>uid://dpmm6mscc00fp::::res://enemy.tscn<>uid://dijlc3v6i0or3::::res://bg_music.mp3<>uid://25h8317w24nw::::res://enemy_hit.mp3

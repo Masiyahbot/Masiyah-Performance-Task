@@ -1,8 +1,8 @@
 extends Area2D
 
 @onready var speed = 400
-@onready var bgmusic = 
-@onready var enemy_hit
+@onready var bg_music = $"../BGMusic"
+@onready var enemy_hit = $"../EnemyHit"
 
 func _process(delta):
 	var velocity = Vector2.ZERO
